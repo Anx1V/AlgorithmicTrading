@@ -1,0 +1,2 @@
+# AlgorithmicTrading
+Learning Algorithmic Trading 
